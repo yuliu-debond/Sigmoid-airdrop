@@ -2,7 +2,6 @@
 pragma solidity ^0.5.17;
 
 
-
 /*
  * @dev This contract is the SASH credit airdrop contract. 
  **1. On the end of the event (1st may,2021) dev will put the merkle root of airdrop list in to this contract,using setAirdrop().
